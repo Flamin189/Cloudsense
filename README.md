@@ -20,8 +20,8 @@ Our system leverages historical **rainfall, temperature, humidity, and atmospher
 ---
 
 ## 📂 Project Structure
-cloudburst-prediction/
-│── data/ # Dataset files (rainfall, weather data, etc.)
+cloudburst-prediction/ 
+│── data/ # Dataset files (rainfall, weather data, etc.)\n
 │── notebooks/ # Jupyter notebooks for experiments
 │── src/ # Source code (data preprocessing, model training, evaluation)
 │── models/ # Saved trained models
