@@ -20,3 +20,33 @@ Our system leverages historical **rainfall, temperature, humidity, and atmospher
 ---
 
 ## 📂 Project Structure
+cloudburst-prediction/
+│── data/ # Dataset files (rainfall, weather data, etc.)
+│── notebooks/ # Jupyter notebooks for experiments
+│── src/ # Source code (data preprocessing, model training, evaluation)
+│── models/ # Saved trained models
+│── results/ # Graphs, plots, evaluation reports
+│── requirements.txt # Python dependencies
+│── README.md # Project documentation
+
+
+---
+
+## 🛠️ Tech Stack
+- **Languages**: Python  
+- **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Machine Learning**: Random Forest, Logistic Regression, K-Means Clustering, Ensemble Models  
+- **Tools**: Jupyter Notebook / VS Code  
+
+---
+
+## 📊 Dataset
+We use historical **rainfall and weather datasets** containing:  
+- Rainfall (mm)  
+- Temperature (°C)  
+- Humidity (%)  
+- Wind speed (m/s)  
+- Pressure (hPa)  
+
+
+
